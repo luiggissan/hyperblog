@@ -1,9 +1,9 @@
 body
 {
-    color: #327;
+    color: red;
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    margin: 0;
+    font-family: "Arial" ;
+    margin: auto;
     padding: 0;
 
 }
